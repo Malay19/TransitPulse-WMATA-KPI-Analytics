@@ -51,8 +51,8 @@ This project integrates these datasets into a single schema to enable:
 
 ---
 
-## Repository Structure
+<--! ## Repository Structure
 - `/schema` – SQL table creation scripts
 - `/views` – SQL KPI calculation views
 - `/analysis` – Sample queries
-- `/erd` – Database schema diagram
+- `/erd` – Database schema diagram -->
