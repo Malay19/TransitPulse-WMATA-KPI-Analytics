@@ -49,9 +49,9 @@ This project integrates these datasets into a single schema to enable:
 - Operational delays were more strongly tied to infrastructure issues than rider volume.
 - Crime normalization revealed different hotspot priorities than raw counts.
 
----
+<!--  ---
 
-<--! ## Repository Structure
+## Repository Structure
 - `/schema` – SQL table creation scripts
 - `/views` – SQL KPI calculation views
 - `/analysis` – Sample queries
